@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ScrollView, Animated, Platform, Easing, I18nManager } from 'react-native';
+import { ScrollView, Animated, Platform, Easing, I18nManager, View } from 'react-native';
 import PropTypes from 'prop-types';
 import shallowCompare from 'react-addons-shallow-compare';
 import _debounce from 'lodash.debounce';

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Animated, Easing } from 'react-native';
+import { Animated, Easing, View } from 'react-native';
 import PropTypes from 'prop-types';
 import styles from './Pagination.style';
 
